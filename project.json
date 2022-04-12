@@ -1,0 +1,70 @@
+{
+  "name": "CASE STUDY25",
+  "description": "Test Automation Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.System.Activities": "[21.10.4]",
+    "UiPath.Testing.Activities": "[1.4.6]",
+    "UiPath.UIAutomation.Activities": "[21.10.5]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "21.10.5.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "108a2690-a853-4785-95bb-3e43c33369c3",
+        "fileName": "TestCases.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "f19b3fde-542f-4cde-b592-bafffb9ffab6",
+        "fileName": "Login.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "7a41987c-9eab-404a-b9b3-61068c037f2f",
+        "fileName": "New Contact.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "13a7f958-f70f-407f-8b16-cc9b53f43697",
+        "fileName": "menuSelection.xaml"
+      }
+    ],
+    "modernBehavior": false
+  },
+  "expressionLanguage": "CSharp",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}
